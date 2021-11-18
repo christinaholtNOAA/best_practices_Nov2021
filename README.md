@@ -4,7 +4,7 @@ by Practical Session participants of the Nov 2021 Best Practices
 Workshop.
 
 # Warning
-Code contained within this repository is not meant for use as a robust
+Code contained within this repository is **not** meant for use as a robust
 tool. It is meant only for demonstration purposes.
 
 # Requirements
@@ -14,7 +14,7 @@ This code is python-based. Exercises for the learning module require:
 - pylint
 - pytest
 
-# Hands-on session.
+# Hands-on session
 As a group, we did some live commenting on the code proposed in PR #2
 and PR #3. Check out the comments and changes made in each of those.
 

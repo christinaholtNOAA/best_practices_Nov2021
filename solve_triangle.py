@@ -65,7 +65,7 @@ def apply_trig_functions(unknown, opposite=None, adjacent=None,
     ''' Solve the basic trig function (sin, cos, tan) given triangle
     metrics.
 
-    Recall the pneumonic: SOH, CAH, TOA
+    Recall the mnemonic: SOH, CAH, TOA
 
     Theta is required in radians, and is returned in radians
     '''
